@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 932.94 132.68">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        font-size: 101.85px;
+      }
+
+      .cls-3 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-5, .cls-6 {
+        font-size: 54px;
+      }
+
+      .cls-6 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-7 {
+        font-size: 27.29px;
+      }
+
+      .cls-7, .cls-8 {
+        fill: #000;
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-9 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <text class="cls-8" transform="translate(0 94.34)"><tspan class="cls-2" x="0" y="0">BOOK</tspan><tspan class="cls-3" x="305.54" y="0"> </tspan><tspan class="cls-2" x="330.05" y="0">AN</tspan><tspan class="cls-1" x="477.15" y="0">Y</tspan><tspan class="cls-2" x="543.24" y="0"> </tspan><tspan class="cls-4" x="571.54" y="0">V</tspan><tspan class="cls-2" x="631.91" y="0">AN </tspan><tspan class="cls-6" x="807.31" y="0">L</tspan><tspan class="cls-5" x="836.28" y="0">TD.</tspan></text>
+    <g>
+      <text class="cls-7" transform="translate(905.33 26.83)"><tspan x="0" y="0">R</tspan></text>
+      <circle class="cls-9" cx="915.15" cy="17.79" r="16.29"/>
+    </g>
+  </g>
+</svg>

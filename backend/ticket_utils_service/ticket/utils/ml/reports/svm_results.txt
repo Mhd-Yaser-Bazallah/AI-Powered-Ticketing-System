@@ -1,0 +1,20 @@
+===== SVM RESULTS =====
+Accuracy: 0.8601588628762542
+F1 Macro: 0.8608226591207928
+F1 Weighted: 0.8602180695500434
+
+===== Classification Report =====
+                       precision    recall  f1-score   support
+
+               Access      0.896     0.877     0.887      2138
+Administrative rights      0.850     0.710     0.774       528
+           HR Support      0.864     0.875     0.870      3275
+             Hardware      0.822     0.871     0.846      4085
+     Internal Project      0.892     0.835     0.863       636
+        Miscellaneous      0.834     0.832     0.833      2118
+             Purchase      0.962     0.892     0.926       739
+              Storage      0.919     0.861     0.889       833
+
+             accuracy                          0.860     14352
+            macro avg      0.880     0.844     0.861     14352
+         weighted avg      0.862     0.860     0.860     14352

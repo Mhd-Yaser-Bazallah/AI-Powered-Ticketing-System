@@ -1,0 +1,221 @@
+description,team
+Internet is not working in my office,Network Team
+Unable to connect to Wi-Fi router,Network Team
+VPN connection keeps dropping,Network Team
+Router configuration issue after power outage,Network Team
+Slow internet speed and disconnections,Network Team
+Cannot connect to company intranet from home,Network Team
+Frequent network interruptions during meetings,Network Team
+Email server not reachable from office network,Network Team
+LAN cable connection unstable in office,Network Team
+Network latency is too high affecting VoIP calls,Network Team
+Received double charge on my last invoice,Billing Team
+Unable to process my online payment,Billing Team
+Need refund for an overcharged bill,Billing Team
+Invoice not reflecting latest payment,Billing Team
+Payment gateway shows error code 502,Billing Team
+Incorrect billing cycle applied to account,Billing Team
+Late fee charged incorrectly on last invoice,Billing Team
+Subscription renewal failed despite payment,Billing Team
+Discount not applied correctly on my invoice,Billing Team
+Billing statement missing charges for last month,Billing Team
+The application freezes when submitting the form,Frontend Team
+UI elements overlap on smaller screens,Frontend Team
+Login button is unresponsive on mobile,Frontend Team
+Dropdown menus not working on Firefox,Frontend Team
+CSS styles not loading correctly after update,Frontend Team
+Homepage not rendering on Safari browser,Frontend Team
+Incorrect layout on tablet devices,Frontend Team
+Buttons misaligned after frontend update,Frontend Team
+Form validation messages not displaying,Frontend Team
+Images not loading on dashboard page,Frontend Team
+Server returns 500 error when creating new ticket,Backend Team
+API endpoint for fetching users is not working,Backend Team
+Authentication token expired unexpectedly,Backend Team
+Data not saving after API call,Backend Team
+Background job failed to execute,Backend Team
+Server memory spike causes crashes,Backend Team
+Error thrown when updating user profile via API,Backend Team
+Webhook notifications not sent correctly,Backend Team
+Email notifications failing from backend,Backend Team
+Server logs show unexpected exceptions,Backend Team
+Database connection timeout during peak hours,Database Team
+Data inconsistency found in user records,Database Team
+Backup job failed to execute last night,Database Team
+Slow queries affecting report generation,Database Team
+Unable to restore database from backup,Database Team
+Indexing not updating in database,Database Team
+Database migration script failed,Database Team
+Corrupted entries found in user table,Database Team
+Foreign key constraint violation on update,Database Team
+Database replication not syncing correctly,Database Team
+User unable to reset password via portal,Customer Care Team
+Need to update my registered email address,Customer Care Team
+Complaint about slow response from support,Customer Care Team
+Requesting account closure confirmation,Customer Care Team
+Customer unable to access portal features,Customer Care Team
+Inquiry about subscription upgrade,Customer Care Team
+Request for invoice copy not received,Customer Care Team
+Assistance needed to recover deleted ticket,Customer Care Team
+Follow-up on pending support ticket,Customer Care Team
+Unable to schedule appointment via portal,Customer Care Team
+VPN not connecting from remote location,Technical Support Team
+Router reboot didn't fix the issue,Technical Support Team
+Software installation fails with error 403,Technical Support Team
+Printer not detected on office network,Technical Support Team
+Laptop battery not charging properly,Technical Support Team
+Desktop freezes intermittently during use,Technical Support Team
+System crash when opening dashboard,Technical Support Team
+Error when syncing email client,Technical Support Team
+Unable to access shared network folder,Technical Support Team
+Peripheral devices not recognized by system,Technical Support Team
+Homepage not loading after backend deployment,Help Desk Team
+Requesting status update on open ticket,Help Desk Team
+Need to reopen a closed ticket for follow-up,Help Desk Team
+Please escalate ticket #452 to technical team,Help Desk Team
+Guidance needed to complete internal form,Help Desk Team
+Assistance required for account migration,Help Desk Team
+Request to reset user permissions,Help Desk Team
+Internal tool not accessible to staff,Help Desk Team
+Help needed to configure email client,Help Desk Team
+Follow-up on escalated internal request,Help Desk Team
+Login page showing unexpected error,Frontend Team
+Mobile app crashes during signup,Frontend Team
+Profile picture upload fails on portal,Frontend Team
+Notifications not appearing on dashboard,Frontend Team
+Search functionality returning wrong results,Frontend Team
+Dropdown menu overlaps with footer,Frontend Team
+Buttons unresponsive in IE11 browser,Frontend Team
+Settings page fails to save changes,Frontend Team
+Tooltip not displaying correctly,Frontend Team
+Graphs not rendering in reports module,Frontend Team
+API returns 404 on valid request,Backend Team
+Background worker stops processing jobs,Backend Team
+Server logs show memory leak warnings,Backend Team
+Error 500 when submitting feedback form,Backend Team
+Webhook callback fails intermittently,Backend Team
+Database migration causes downtime,Database Team
+Deadlock encountered during transaction,Database Team
+Query optimization needed for reports,Database Team
+Missing index causing slow queries,Database Team
+Foreign key constraint error while deleting record,Database Team
+description,team
+Unable to access VPN from multiple locations,Network Team
+Internet speed drops during video calls,Network Team
+Firewall blocking essential services,Network Team
+Frequent disconnections in remote office,Network Team
+Router firmware update failed,Network Team
+Switch ports not functioning properly,Network Team
+DNS resolution errors on company network,Network Team
+Packet loss detected on LAN,Network Team
+Slow VPN authentication,Network Team
+Network outage affecting multiple users,Network Team
+Incorrect charges on subscription renewal,Billing Team
+Invoice emailed to wrong address,Billing Team
+Refund request not processed,Billing Team
+Credit applied twice to account,Billing Team
+Billing portal shows incorrect balance,Billing Team
+Late payment notice sent incorrectly,Billing Team
+Subscription plan not updated after payment,Billing Team
+Discount code not applied to invoice,Billing Team
+Auto-payment failed without notification,Billing Team
+Overcharged for extra service, Billing Team
+Application crashes on startup,Software Team
+Cannot update software due to error code 401,Software Team
+Email notifications not delivered,Software Team
+Software license key invalid,Software Team
+Error when exporting reports,Software Team
+Mobile app crashes on login,Software Team
+Permission denied when saving file,Software Team
+System settings reset unexpectedly,Software Team
+Software integration not working,Software Team
+Unexpected logout from application,Software Team
+Customer unable to reach support agent,Customer Care Team
+Complaint about service quality,Customer Care Team
+Request for password reset assistance,Customer Care Team
+Customer account locked unexpectedly,Customer Care Team
+Inquiry about plan upgrade,Customer Care Team
+Unable to access online portal,Customer Care Team
+Complaint about delayed response,Customer Care Team
+Request for refund processing,Customer Care Team
+Follow-up on unresolved ticket,Customer Care Team
+Need help updating account information,Customer Care Team
+API returns incorrect data format,Backend Team
+Database update causing errors,Backend Team
+Authentication fails intermittently,Backend Team
+Background job not completing,Backend Team
+Server crash after deployment,Backend Team
+Webhook response invalid,Backend Team
+Error when calling microservice,Backend Team
+Server memory leak detected,Backend Team
+Unexpected exception during API request,Backend Team
+Server logs filled with errors,Backend Team
+Dropdown menu overlaps with text,Frontend Team
+Image not displaying on homepage,Frontend Team
+CSS not loading after update,Frontend Team
+Buttons unresponsive on form,Frontend Team
+Mobile layout broken on Android,Frontend Team
+Text misalignment in header,Frontend Team
+Search bar not functioning properly,Frontend Team
+Navigation menu missing links,Frontend Team
+Profile update not saving changes,Frontend Team
+Error message not visible on page,Frontend Team
+Database backup failed overnight,Database Team
+Slow query causing timeout,Database Team
+Data mismatch in reporting tables,Database Team
+Foreign key constraint violation during insert,Database Team
+Index not created on new table,Database Team
+Database replication lag detected,Database Team
+Unable to restore previous backup,Database Team
+Stored procedure fails with error,Database Team
+Data loss during migration,Database Team
+Connection pool exhausted causing errors,Database Team
+Ticket not assigned correctly,Help Desk Team
+Request to escalate urgent ticket,Help Desk Team
+Unable to close resolved ticket,Help Desk Team
+Follow-up needed for pending request,Help Desk Team
+Internal system not responding,Help Desk Team
+Assistance needed for user account setup,Help Desk Team
+Request for permission change,Help Desk Team
+Unable to access internal tool,Help Desk Team
+Need help resolving software issue,Help Desk Team
+Issue with internal communication platform,Help Desk Team
+VPN disconnects frequently,Network Team
+Network switch not forwarding traffic,Network Team
+Wi-Fi hotspot not connecting,Network Team
+DNS server unreachable,Network Team
+Slow file transfer over network,Network Team
+Router keeps rebooting randomly,Network Team
+Packet drops in office network,Network Team
+Network monitoring alerts failing,Network Team
+Cannot reach internal server,Network Team
+VPN client fails to authenticate,Network Team
+Billing statement shows duplicate charges,Billing Team
+Incorrect subscription plan billed,Billing Team
+Refund not appearing in account,Billing Team
+Billing page not loading, Billing Team
+Payment confirmation email not sent,Billing Team
+Late fee applied incorrectly,Billing Team
+Discount not applied on invoice,Billing Team
+Overcharged for service upgrade,Billing Team
+Billing report shows wrong totals,Billing Team
+Unable to update payment method,Billing Team
+Mobile app crashes on update,Software Team
+Error exporting user data,Software Team
+Email sync fails on mobile app,Software Team
+Software update fails to install,Software Team
+Permission error saving document,Software Team
+Application logout unexpectedly,Software Team
+Unable to access certain features,Software Team
+Software integration returns error,Software Team
+Mobile app login failing intermittently,Software Team
+System performance slow after update,Software Team
+Customer cannot reach live chat,Customer Care Team
+Complaint about poor customer service,Customer Care Team
+Request to change account email,Customer Care Team
+Customer account suspended without reason,Customer Care Team
+Inquiry about billing statement,Customer Care Team
+Request to cancel service plan,Customer Care Team
+Complaint about delayed support,Customer Care Team
+Follow-up on previous ticket,Customer Care Team
+Need assistance updating profile information,Customer Care Team
